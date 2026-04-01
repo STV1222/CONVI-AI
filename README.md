@@ -1,4 +1,4 @@
-# Light Showcase MVP
+# CONVI-AI
 
 `Light` is a polished showcase MVP for an AI-powered construction management platform. It is designed for demos with investors, construction companies, partners, and prospective clients.
 
